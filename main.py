@@ -1,2 +1,2 @@
-Greetings=("Hello Africa")
+Greetings="Hello Africa"
 print(Greetings)
